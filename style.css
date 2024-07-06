@@ -195,6 +195,7 @@ a {
     text-align:center;
     align-items: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    flex-shrink: 0;
 }
 
 .pic {

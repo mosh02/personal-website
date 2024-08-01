@@ -94,12 +94,9 @@ body {
     width:fit-content;
 }
 
-.h1:hover {
+#name:hover {
     color:brown;
-    cursor: pointer;   
 }
-
-
 
 
 .container {
